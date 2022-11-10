@@ -34,6 +34,7 @@ https://collectionapi.metmuseum.org/public/collection/v1/objects/626019
 [Pantry](https://getpantry.cloud/#)
 
 [API Documentation](https://documenter.getpostman.com/view/3281832/SzmZeMLC)
+[Pantry (Independent Publisher) (Preview)](https://learn.microsoft.com/en-us/connectors/pantryip/)
 
 ## Reto :triangular_flag_on_post:
 
