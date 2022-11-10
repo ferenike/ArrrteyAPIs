@@ -1,6 +1,11 @@
 # ¿Arrrte y APIs?
 Explora el mundo del arte usando APIs RESTful
 
+## Requisitos :triangular_flag_on_post:
+
+- [Visual Studio Code](https://code.visualstudio.com/download) [¿Se come?](https://code.visualstudio.com/docs/introvideos/basics)
+  -[Thunder Client](https://www.thunderclient.com/)
+- [Python](https://www.python.org/downloads/)  [¿Muerde?](https://docs.microsoft.com/es-mx/learn/modules/intro-to-python/)
 
 [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/)
 
